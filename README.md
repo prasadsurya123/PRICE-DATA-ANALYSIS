@@ -54,3 +54,6 @@ EDA confirmed visible correlation between hardware specifications and price, val
 model = LinearRegression()
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
+
+
+https://sites.google.com/d/1oU02joZ5IFI7H6JGdx2GeSvkbmQdFPJh/p/1ZeXyh7uKCudy2_lAvcth9MxzXx94BQX6/edit
